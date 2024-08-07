@@ -1,4 +1,8 @@
-     The Hospital management system comprises of mainly three main modules. They are Admin 
+
+                        The Hospital management system 
+     
+      The Hospital management system  comprises of mainly three main modules. 
+They are Admin 
 Module, Doctor Module, and User Module. The Admin module will be responsible for adding the 
 doctor details, viewing patient details, to viewing the Total appointments. The Doctor module will 
 be responsible for editing the doctor's details and the total appointments to the doctor. The user 
